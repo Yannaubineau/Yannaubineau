@@ -1,3 +1,10 @@
+  <div align="center"> 
+<a href="">
+<img  src="204.png" />
+    </a>
+    <a href="">
+</div>
+
 # Welcome to my profile ! I'm Yann, aka CravetheFlame <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -21,16 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-
-<br/>
-
 ---
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yannaubineau&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
